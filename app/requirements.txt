@@ -1,0 +1,7 @@
+flask
+Flask-HTTPAuth
+paho-mqtt
+pydantic
+python-dotenv
+requests
+xxtea # windows .whl currently only exist for Python 3.8.x
